@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @driblades
 - 👀 I’m interested in learn basic programation
 - 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on all basic projects
+- 💞️ I’m looking for collaborate on all basic projects
 - 📫 How to reach me: @emanuelfargolo on instagram or you can text me in my gmail: trabargolo@gmail.com
 
 <!---
